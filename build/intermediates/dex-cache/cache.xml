@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android_workspace\EventBikeLib\eventbike\build\libs\eventbike.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8c71dc8339f31285372a72d4b7decfee31a067f">
+        <dex dex="E:\android_workspace\EventBikeLib\app\build\intermediates\pre-dexed\debug\eventbike_14f684e60b03aa4f5abd5d4e3d9efe6ff4d740a1.jar" />
+    </item>
+
+</items>
