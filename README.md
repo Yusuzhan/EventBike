@@ -1,5 +1,8 @@
 # EventBike
 ---
-山寨EventBus.
+简化版EventBus, 实现了四种线程模型的消息发送.
 
-阅读EventBus源码整理出的核心代码, 不包括index部分.
+* Posting
+* Main
+* Background
+* Async
